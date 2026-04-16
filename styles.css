@@ -23,8 +23,8 @@ p {
   line-height: 1.6;
 }
 .hero {
-  height: 100 vh; /* CHANGE TO: 100vh */
-  background:pink ;
+  height: 100vh; /* CHANGE TO: 100vh */
+  background:pink;
   color: white;
 }
 
@@ -38,32 +38,48 @@ p {
 
 /* Compleate challenge down here */
 .box{
-  border: solid yellow;
-  background-color: yellow;
+  background-color: orange;
   display: inline-block;
-  height: 35vh;
-  width: 35vw;
+  height: 50vh;
+  width: 300px;
+  color:white;
+  font-size: 5rem;
+  padding: 1rem;
 }
 .Box2{
-  border: solid green;
-  background-color: green;
+  
+  background-color: purple;
   display: inline-block;
-  height: 35vh;
-  width: 35vw;
+  height: 50vh;
+  width: 300px;
+  color:white;
+  font-size: 5rem;
+  padding: 1rem;
 }
 .Box3{
-  border: solid blue;
-  background-color: blue;
+  
+  background-color: pink;
   display: inline-block;
-  height: 35vh;
-  width: 35vw;
+  height: 50vh;
+  width: 300px;
+  color:white;
+  font-size: 5rem;
+  padding: 1rem;
 }
 .Box4{
-  border: solid red;
-  background-color: red;
+  
+  background-color: black;
   display: inline-block;
-  height: 35vh;
-  width: 35vw;
+  height: 50vh;
+  width: 300px;
+  color:white;
+  font-size: 5rem;
+  padding: 1rem;
+}
+.h2{
+  font-size: 3vw;
+  margin-bottom: 2vh;
+  color:blue;
 }
 
 
