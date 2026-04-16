@@ -41,6 +41,29 @@ p {
   border: solid yellow;
   background-color: yellow;
   display: inline-block;
+  height: 35vh;
+  width: 35vw;
+}
+.Box2{
+  border: solid green;
+  background-color: green;
+  display: inline-block;
+  height: 35vh;
+  width: 35vw;
+}
+.Box3{
+  border: solid blue;
+  background-color: blue;
+  display: inline-block;
+  height: 35vh;
+  width: 35vw;
+}
+.Box4{
+  border: solid red;
+  background-color: red;
+  display: inline-block;
+  height: 35vh;
+  width: 35vw;
 }
 
 
